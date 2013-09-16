@@ -43,5 +43,6 @@ My walk folder contains:
 ## Todo
 
 1. Use grunt for build
+2. Upgrade and complete level 1 asap.
 
 
